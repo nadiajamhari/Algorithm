@@ -1,0 +1,71 @@
+Rapid population growth in Asia is placing new demands on public structures and services, with Malaysia at the forefront of enhancing infrastructure capabilities to reduce stress on expanding cities and towns.
+
+In a country housing more than 31 million citizens, Kuala Lumpur is leading the charge to transform transportation systems to combat a rise in traffic congestion and air pollution.
+
+The capital city has a population of 1.8 million - set to climb to 2.2 million by 2020 - and a further six million more inhabitants within the Greater Kuala Lumpur-Klang Valley metropolitan region.
+
+To service such a bloated metropolis, Mass Rapid Transit Corporation (MRTC) - the government-linked transit authority - is extending its mass transit rail lines as part of plans first rolled out eight years ago.
+
+In 2011, MRTC unveiled a ground-breaking rail line extension in the form of the Klang Valley Mass Rapid Transit (KVMRT) system, billed as one of the most “ambitious” transportation projects ever undertaken in Asia.
+
+The aim is simple; to ease traffic congestion and increase the public transportation modal share from 18 percent in 2009 to 40 percent in 2020.
+
+Phase one of the project - the Sungai Buloh-Kajang (SBK) Line - was completed in July 2017 while the second line - the KVMRT Sungai Buloh-Serdang-Putrajaya (SSP) Line - spans 52.2km, 13.5km of which is underground, including 35 stations.
+
+When completing the SBK Line however, the organisation encountered a range of challenges in the design and construction processes, with setbacks created due to design changes and site constraints. The knock-on effect ranged from confusion to delays and increased costs, creating a need to streamline operations during the SSP Line roll-out.
+
+Coupled with a 30 percent increase in consultants - all requiring direct access to a common database to continuously update design information -, MRTC required a change of approach.
+
+“One of the key challenges faced with any mega civil construction project like ours is ensuring seamless information exchange and real-time collaboration, regardless of the platforms they are using,” observed Seng Poh, director of Planning and Design, MRTC.
+
+“The probability for error is high if information isn’t managed in a common data environment, especially in a highly collaborative project like ours.”
+
+Cloud gains
+In a bid to minimise confusion specifically, Poh mandated the use of building information modelling (BIM) to “improve design collaboration, construction feasibility, and accuracy of as-built information on the SSP Line”.
+
+Consequently, MRTC achieved BIM Level 2 accreditation from Lloyd’s covering all aspects of people, process and technology.
+
+Consistent with a BIM Level 2 approach, Poh said MRTC is also “moving beyond” 3D modelling and 2D drawing production to using digital information for all communication.
+
+“MRTC contractors use digital engineering models across different locations for activities that include 4D construction planning and 5D quantity takeoffs,” Poh explained. “Our cloud-based connected data environment (CDE) enables true data mobility on this complex project, enabling the onsite team to retrieve design information wherever and whenever necessary.”
+
+To drive such change, MRTC partnered with Microsoft partner Bentley Systems, a specialist in developing software solutions for engineers, architect, builders and owner-operators for advanced infrastructure projects.
+
+With deep sector expertise, the business was project delivery partner on the expansion of the Pan Borneo Highway in Sarawak; delivered 3D innovation to the Beijing-Zhangjiakou high-speed railway and improved the intermittent water supply of the Agra Water Supply System in India.
+
+MRTC partnered with Bentley to create a cloud-based BIM system using its CDE offering in the form of cloud-provisioned services designed to allow companies to manage and access “consistent, trusted and accurate” information across the infrastructure asset lifecycle.
+
+The CDE incorporates ProjectWise, Bentley’s information management and collaboration platform, which delivered improved collaboration and communication to streamline multidiscipline project delivery. Other offerings include AssetWise, Bentley software that integrates configuration and change management best practice to ensure delivery of accurate information to operations and maintenance.
+
+“The Bentley common data environment, bridging ProjectWise and AssetWise, provides a seamless solution for MRTC in our BIM workflow and supports the sharing of information through the entire project lifecycle,” Poh added. “Operating Bentley’s common data environment in Azure enables our geographically dispersed project teams to collaborate as if they were all centrally located.”
+
+Poh said both solutions run in Microsoft Azure using a software-as-a-service (SaaS) model, allowing all disciplines to work in a “federated model” for coordinated design, alongside enabling the integration of design and asset information with operation and maintenance systems to ensure optimal asset performance throughout the project lifecycle.
+
+“We were early adopters of Azure, and it’s the sole cloud provider for our connected data environment,” said Jerry King, vice president of Strategic Partnerships at Bentley Systems.
+
+“We chose Azure because of its global reach, reliability, scalability, security, and performance. The Bentley CDE provides trusted information for members of the MRTC supply chain to drive efficiency within multidiscipline workflows and ultimately improves asset performance and reliability.”
+
+Malaysian transformation
+The transformation project undertaken by MRTC comes amid projections that over 21 percent of Malaysia’s GDP will be digitalised by 2022, with the digital economy central to its journey towards becoming a high-income nation.
+
+According to IDC findings, digitalisation across Malaysia is expected to drive an estimated US$82 billion in IT-related spending from 2019 through 2022, with the adoption of emerging technologies expected to be one of the key drivers in future economic growth.
+
+“Industries in Malaysia must transform themselves by adopting best practices and emerging technologies in order to sustain and be able to compete in a highly connected and competitive world,” added Baseer Siddiqui, senior research manager of ASEAN at IDC.
+
+Siddiqui said the most recent budget focusing on Industry 4.0 blueprint, titled “Industry4WRD”, is a right step towards helping businesses rapidly adopt third platform technologies such as cloud, data and digital.
+
+“The KVMRT project is an example of how the world’s infrastructure projects are undergoing digital transformation through the power of cloud services to improve project delivery and asset performance,” said Kaushik Chakraborty, vice president of Southeast Asia and India at Bentley Systems.
+
+“Together with Microsoft, we are pleased to see organisations tapping the power of the cloud to realise the potential of real-time business insights and collaboration to deliver greater efficiency in a highly complex industry.”
+
+By using Bentley software hosted on Azure, MRTC allowed more than 1,500 users to collaborate on approximately 7,500 models and more than 280,000 documents and drawings, corresponding to 2.3 terabytes of project data.
+
+During biweekly virtual design reviews conducted through the CDE, MRTC was able to review the status of designs, coordinate and resolve any issues, and extract information necessary to ensure optimal interaction within and among the different stations.
+
+Specifically, the project’s engineers and construction managers are using Azure Virtual Machines, Azure Storage, Azure Active Directory and Azure Search from Bentley Systems to collaborate by using a connected data environment. According to Poh, this reduces errors and design conflicts, improves collaboration efficiency by 35 percent and ensures that the project will be completed on time and within budget.
+
+“The increased trust and acceptance that shared information is current and accurate reduces errors and repeated work and has enabled us to improve collaboration by 35 percent,” Poh added.
+
+Part of this productivity boost came from reducing the number of service clashes between different disciplines from 4,000 to 1,000 per station when compared to its work on the SBK Line.
+
+Poh said the cumulative result of collaboration efficiency gains is an expectation that MRTC will complete the SSP Line on time and within budget. The connected data repository also provides a basis for performing ongoing asset management on the rail line after it’s operational.
